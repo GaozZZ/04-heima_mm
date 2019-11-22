@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 
 Vue.config.productionTip = false
+import "./style/base.css"
 
 import router from './router/router.js'
 import ElementUI from 'element-ui'
